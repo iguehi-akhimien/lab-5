@@ -96,14 +96,14 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `Main.java`
 
-  - [ ] TODO: add the Logout Use Case to the app using the appBuilder
+  - [X] TODO: add the Logout Use Case to the app using the appBuilder
 
 * * *
 
 - `LoggedInView.java` (tip: refer to the other views for similar code)
 
-  - [ ] TODO: save the logout controller in the instance variable.
-  - [ ] TODO: execute the logout use case through the Controller
+  - [X] TODO: save the logout controller in the instance variable.
+  - [X] TODO: execute the logout use case through the Controller
 
 * * *
 
@@ -116,12 +116,12 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below)
 
-  - [ ] TODO: save the current username in an instance variable and add a getter.
+  - [X] TODO: save the current username in an instance variable and add a getter.
 
 - `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code)
 
-  - [ ] TODO: save the DAO and Presenter in the instance variables.
-  - [ ] TODO: implement the logic of the Logout Use Case
+  - [X] TODO: save the DAO and Presenter in the instance variables.
+  - [X] TODO: implement the logic of the Logout Use Case
 
 * * *
 
@@ -133,9 +133,9 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code)
 
-  - [ ] TODO: assign to the three instance variables.
-  - [ ] TODO: have prepareSuccessView update the LoggedInState
-  - [ ] TODO: have prepareSuccessView update the LoginState
+  - [X] TODO: assign to the three instance variables.
+  - [X] TODO: have prepareSuccessView update the LoggedInState
+  - [X] TODO: have prepareSuccessView update the LoginState
 
 * * *
 
